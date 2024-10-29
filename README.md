@@ -12,4 +12,4 @@
 1) npx webpack
 2) npx json-server db.json (db.json созданный файл с информацией, вместо базы данных)
 
-## [Демо](https://lisan4.github.io/food/) версия проекта
+## [Демо](https://lisan4.github.io/Food/) версия проекта
